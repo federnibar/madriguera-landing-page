@@ -4,6 +4,13 @@ export default {
 	content: ['./src/**/*.{html,js,svelte,ts}'],
 
 	theme: {
+		fontFamily: {
+			'sans': ['"Urbanist Sans"', 'ui-sans-serif', 'system-ui'],
+			'serif': ['"Urbanist Serif"', 'ui-serif'],
+			'mono': ['ui-monospace', 'SFMono-Regular'],
+			'display': ['Oswald'],
+			'body': ['"Urbanist Sans"'],
+		},
 		extend: {}
 	},
 
