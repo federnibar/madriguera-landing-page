@@ -21,7 +21,7 @@
         <div class="pl-4 flex items-center">
           <a class="toggleColour text-white no-underline hover:no-underline font-bold text-2xl lg:text-4xl" href="#">
 <img class="w-16 inline" src="/madriguera.png" alt="logo">
-            MADRIGUERA
+            
           </a>
         </div>
         <div class="block lg:hidden pr-4">
